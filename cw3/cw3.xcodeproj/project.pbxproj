@@ -7,27 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F804B5D1289AD06400057E17 /* SquarePeg.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F804B5D0289AD06400057E17 /* SquarePeg.ttf */; };
-		F804B5D4289AD0C800057E17 /* FontsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F804B5D3289AD0C800057E17 /* FontsManager.swift */; };
-		F8BE5246289AC6FB0078EFE4 /* cw3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8BE5245289AC6FB0078EFE4 /* cw3App.swift */; };
-		F8BE5248289AC6FB0078EFE4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8BE5247289AC6FB0078EFE4 /* ContentView.swift */; };
-		F8BE524A289AC6FD0078EFE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8BE5249289AC6FD0078EFE4 /* Assets.xcassets */; };
-		F8BE524D289AC6FD0078EFE4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8BE524C289AC6FD0078EFE4 /* Preview Assets.xcassets */; };
+		F8812EF2289B082F00ABE5E3 /* CW3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8812EF1289B082F00ABE5E3 /* CW3App.swift */; };
+		F8812EF4289B082F00ABE5E3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8812EF3289B082F00ABE5E3 /* ContentView.swift */; };
+		F8812EF6289B083100ABE5E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8812EF5289B083100ABE5E3 /* Assets.xcassets */; };
+		F8812EF9289B083100ABE5E3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8812EF8289B083100ABE5E3 /* Preview Assets.xcassets */; };
+		F8812F01289B086C00ABE5E3 /* SquarePeg.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8812EFF289B086C00ABE5E3 /* SquarePeg.ttf */; };
+		F8812F02289B086C00ABE5E3 /* MouseMemoirs.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8812F00289B086C00ABE5E3 /* MouseMemoirs.ttf */; };
+		F8812F04289B087C00ABE5E3 /* FontsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8812F03289B087C00ABE5E3 /* FontsManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F804B5D0289AD06400057E17 /* SquarePeg.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SquarePeg.ttf; sourceTree = "<group>"; };
-		F804B5D2289AD08300057E17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
-		F804B5D3289AD0C800057E17 /* FontsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontsManager.swift; sourceTree = "<group>"; };
-		F8BE5242289AC6FB0078EFE4 /* cw3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cw3.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F8BE5245289AC6FB0078EFE4 /* cw3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cw3App.swift; sourceTree = "<group>"; };
-		F8BE5247289AC6FB0078EFE4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		F8BE5249289AC6FD0078EFE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F8BE524C289AC6FD0078EFE4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F8812EEE289B082F00ABE5E3 /* CW3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CW3.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F8812EF1289B082F00ABE5E3 /* CW3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CW3App.swift; sourceTree = "<group>"; };
+		F8812EF3289B082F00ABE5E3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F8812EF5289B083100ABE5E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F8812EF8289B083100ABE5E3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F8812EFF289B086C00ABE5E3 /* SquarePeg.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SquarePeg.ttf; sourceTree = "<group>"; };
+		F8812F00289B086C00ABE5E3 /* MouseMemoirs.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MouseMemoirs.ttf; sourceTree = "<group>"; };
+		F8812F03289B087C00ABE5E3 /* FontsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontsManager.swift; sourceTree = "<group>"; };
+		F8812F05289B089900ABE5E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F8BE523F289AC6FB0078EFE4 /* Frameworks */ = {
+		F8812EEB289B082F00ABE5E3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,40 +39,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F8BE5239289AC6FB0078EFE4 = {
+		F8812EE5289B082F00ABE5E3 = {
 			isa = PBXGroup;
 			children = (
-				F8BE5244289AC6FB0078EFE4 /* cw3 */,
-				F8BE5243289AC6FB0078EFE4 /* Products */,
+				F8812EF0289B082F00ABE5E3 /* CW3 */,
+				F8812EEF289B082F00ABE5E3 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F8BE5243289AC6FB0078EFE4 /* Products */ = {
+		F8812EEF289B082F00ABE5E3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F8BE5242289AC6FB0078EFE4 /* cw3.app */,
+				F8812EEE289B082F00ABE5E3 /* CW3.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F8BE5244289AC6FB0078EFE4 /* cw3 */ = {
+		F8812EF0289B082F00ABE5E3 /* CW3 */ = {
 			isa = PBXGroup;
 			children = (
-				F804B5D2289AD08300057E17 /* Info.plist */,
-				F8BE5245289AC6FB0078EFE4 /* cw3App.swift */,
-				F8BE5247289AC6FB0078EFE4 /* ContentView.swift */,
-				F804B5D3289AD0C800057E17 /* FontsManager.swift */,
-				F804B5D0289AD06400057E17 /* SquarePeg.ttf */,
-				F8BE5249289AC6FD0078EFE4 /* Assets.xcassets */,
-				F8BE524B289AC6FD0078EFE4 /* Preview Content */,
+				F8812F05289B089900ABE5E3 /* Info.plist */,
+				F8812EF1289B082F00ABE5E3 /* CW3App.swift */,
+				F8812EF3289B082F00ABE5E3 /* ContentView.swift */,
+				F8812F03289B087C00ABE5E3 /* FontsManager.swift */,
+				F8812F00289B086C00ABE5E3 /* MouseMemoirs.ttf */,
+				F8812EFF289B086C00ABE5E3 /* SquarePeg.ttf */,
+				F8812EF5289B083100ABE5E3 /* Assets.xcassets */,
+				F8812EF7289B083100ABE5E3 /* Preview Content */,
 			);
-			path = cw3;
+			path = CW3;
 			sourceTree = "<group>";
 		};
-		F8BE524B289AC6FD0078EFE4 /* Preview Content */ = {
+		F8812EF7289B083100ABE5E3 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				F8BE524C289AC6FD0078EFE4 /* Preview Assets.xcassets */,
+				F8812EF8289B083100ABE5E3 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -78,39 +81,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F8BE5241289AC6FB0078EFE4 /* cw3 */ = {
+		F8812EED289B082F00ABE5E3 /* CW3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F8BE5250289AC6FD0078EFE4 /* Build configuration list for PBXNativeTarget "cw3" */;
+			buildConfigurationList = F8812EFC289B083100ABE5E3 /* Build configuration list for PBXNativeTarget "CW3" */;
 			buildPhases = (
-				F8BE523E289AC6FB0078EFE4 /* Sources */,
-				F8BE523F289AC6FB0078EFE4 /* Frameworks */,
-				F8BE5240289AC6FB0078EFE4 /* Resources */,
+				F8812EEA289B082F00ABE5E3 /* Sources */,
+				F8812EEB289B082F00ABE5E3 /* Frameworks */,
+				F8812EEC289B082F00ABE5E3 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = cw3;
-			productName = cw3;
-			productReference = F8BE5242289AC6FB0078EFE4 /* cw3.app */;
+			name = CW3;
+			productName = CW3;
+			productReference = F8812EEE289B082F00ABE5E3 /* CW3.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F8BE523A289AC6FB0078EFE4 /* Project object */ = {
+		F8812EE6289B082F00ABE5E3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
 				LastUpgradeCheck = 1340;
 				TargetAttributes = {
-					F8BE5241289AC6FB0078EFE4 = {
+					F8812EED289B082F00ABE5E3 = {
 						CreatedOnToolsVersion = 13.4.1;
 					};
 				};
 			};
-			buildConfigurationList = F8BE523D289AC6FB0078EFE4 /* Build configuration list for PBXProject "cw3" */;
+			buildConfigurationList = F8812EE9289B082F00ABE5E3 /* Build configuration list for PBXProject "CW3" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,44 +121,45 @@
 				en,
 				Base,
 			);
-			mainGroup = F8BE5239289AC6FB0078EFE4;
-			productRefGroup = F8BE5243289AC6FB0078EFE4 /* Products */;
+			mainGroup = F8812EE5289B082F00ABE5E3;
+			productRefGroup = F8812EEF289B082F00ABE5E3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F8BE5241289AC6FB0078EFE4 /* cw3 */,
+				F8812EED289B082F00ABE5E3 /* CW3 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F8BE5240289AC6FB0078EFE4 /* Resources */ = {
+		F8812EEC289B082F00ABE5E3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F804B5D1289AD06400057E17 /* SquarePeg.ttf in Resources */,
-				F8BE524D289AC6FD0078EFE4 /* Preview Assets.xcassets in Resources */,
-				F8BE524A289AC6FD0078EFE4 /* Assets.xcassets in Resources */,
+				F8812F01289B086C00ABE5E3 /* SquarePeg.ttf in Resources */,
+				F8812F02289B086C00ABE5E3 /* MouseMemoirs.ttf in Resources */,
+				F8812EF9289B083100ABE5E3 /* Preview Assets.xcassets in Resources */,
+				F8812EF6289B083100ABE5E3 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F8BE523E289AC6FB0078EFE4 /* Sources */ = {
+		F8812EEA289B082F00ABE5E3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F804B5D4289AD0C800057E17 /* FontsManager.swift in Sources */,
-				F8BE5248289AC6FB0078EFE4 /* ContentView.swift in Sources */,
-				F8BE5246289AC6FB0078EFE4 /* cw3App.swift in Sources */,
+				F8812F04289B087C00ABE5E3 /* FontsManager.swift in Sources */,
+				F8812EF4289B082F00ABE5E3 /* ContentView.swift in Sources */,
+				F8812EF2289B082F00ABE5E3 /* CW3App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		F8BE524E289AC6FD0078EFE4 /* Debug */ = {
+		F8812EFA289B083100ABE5E3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -215,7 +219,7 @@
 			};
 			name = Debug;
 		};
-		F8BE524F289AC6FD0078EFE4 /* Release */ = {
+		F8812EFB289B083100ABE5E3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -269,17 +273,17 @@
 			};
 			name = Release;
 		};
-		F8BE5251289AC6FD0078EFE4 /* Debug */ = {
+		F8812EFD289B083100ABE5E3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"cw3/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"CW3/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = cw3/Info.plist;
+				INFOPLIST_FILE = CW3/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -290,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.sedraasrawi.cw3;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sedraasrawi.CW3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -298,17 +302,17 @@
 			};
 			name = Debug;
 		};
-		F8BE5252289AC6FD0078EFE4 /* Release */ = {
+		F8812EFE289B083100ABE5E3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"cw3/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"CW3/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = cw3/Info.plist;
+				INFOPLIST_FILE = CW3/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -319,7 +323,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.sedraasrawi.cw3;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sedraasrawi.CW3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -330,25 +334,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F8BE523D289AC6FB0078EFE4 /* Build configuration list for PBXProject "cw3" */ = {
+		F8812EE9289B082F00ABE5E3 /* Build configuration list for PBXProject "CW3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F8BE524E289AC6FD0078EFE4 /* Debug */,
-				F8BE524F289AC6FD0078EFE4 /* Release */,
+				F8812EFA289B083100ABE5E3 /* Debug */,
+				F8812EFB289B083100ABE5E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F8BE5250289AC6FD0078EFE4 /* Build configuration list for PBXNativeTarget "cw3" */ = {
+		F8812EFC289B083100ABE5E3 /* Build configuration list for PBXNativeTarget "CW3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F8BE5251289AC6FD0078EFE4 /* Debug */,
-				F8BE5252289AC6FD0078EFE4 /* Release */,
+				F8812EFD289B083100ABE5E3 /* Debug */,
+				F8812EFE289B083100ABE5E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F8BE523A289AC6FB0078EFE4 /* Project object */;
+	rootObject = F8812EE6289B082F00ABE5E3 /* Project object */;
 }
